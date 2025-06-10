@@ -1,5 +1,9 @@
 # TP-integrador-programacion-1
+
+Video: https://drive.google.com/file/d/1WTCAfSS4-R3dqUwLD5hH114j_mxkStrW/view?usp=drive_link
+
 Algoritmos de Búsqueda y Ordenamiento en Python
+
 Este proyecto implementa dos algoritmos fundamentales en programación:
 
 Insertion Sort para ordenar una lista de canciones según diferentes criterios (número de track o duración).
